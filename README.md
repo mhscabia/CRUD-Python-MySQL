@@ -6,5 +6,5 @@ Este foi um estudo básico com foco em entender como o banco de dados (MySQL) se
 
 Dentro da pasta `pbase` temos dois arquivos:
 
-`utils.py`: Onde todos os métodos envolvendo SQL estão implementados.
-`programa.py`: Onde o programa é executado, este realiza o import do `utils.py`
+- `utils.py` : Onde todos os métodos envolvendo SQL estão implementados.
+- `programa.py` : Onde o programa é executado, este realiza o import do `utils.py`
